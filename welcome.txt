@@ -3,3 +3,5 @@ hi 我想更改这个文件
 nice!
 Git is a distributed version control
 git is free software
+我想再次更改文件
+最后一次更改没有提交
