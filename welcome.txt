@@ -1,3 +1,5 @@
 hello.
 hi 我想更改这个文件
 nice!
+Git is a distributed version control
+git is free software
